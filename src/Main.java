@@ -5,7 +5,7 @@ public class Main {
 	{
 		System.out.println("Hola Zeus");
 
-		System.out.println("Ares");
+		System.out.println("Hola Ares");
 
 	}
 
